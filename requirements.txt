@@ -3,3 +3,4 @@ transformers
 newspaper3k
 PyPDF2
 torch 
+lxml
