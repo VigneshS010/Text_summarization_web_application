@@ -3,4 +3,4 @@ transformers
 newspaper3k
 PyPDF2
 torch 
-lxml
+lxml==4.9.3
